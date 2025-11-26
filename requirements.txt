@@ -1,0 +1,7 @@
+openai>=1.6.0
+pdfplumber
+pymupdf
+reportlab
+pillow
+pytesseract
+python-dotenv
